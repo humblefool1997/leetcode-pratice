@@ -30,7 +30,7 @@ class Solution:
                 window[str[high]] = True
  
             # update the maximum window size if necessary
-               if end - begin < high - low:
+            if end - begin < high - low:
                 begin = low
                 end = high
  

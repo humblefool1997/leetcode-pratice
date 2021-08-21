@@ -28,7 +28,7 @@ def Solution():
    print(len(set(s)))
 
 
-Solution();
+Solution()
    
 
 
